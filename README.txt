@@ -1,0 +1,1 @@
+A simple Drupal module that allows module developers to provide checkboxes in each content type form, so that module developers could match up module functionality to content types. This module is intended to be used by other modules, and doesn't have a user interface.
